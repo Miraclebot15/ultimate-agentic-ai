@@ -1,0 +1,6 @@
+langchain
+llama-index
+autogen
+fastapi
+pydantic
+ml-perception
